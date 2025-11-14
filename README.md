@@ -5,12 +5,15 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedshoaib) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sho3ib__1) 
 
-# 💻 Tech Stack:
+# 💻 🔧 Technical Skills:
 **Languages:** Python, C++, Java, SQL<br>
 **Frameworks & Libraries:** Scikit-learn, TensorFlow, OpenCV, Streamlit, Plotly, NumPy, Pandas, Matplotlib,
 Seaborn, XGBoost, Imbalanced-learn<br>
 **Tools & Environments:** Jupyter Notebook, VS Code, Git, GitHub, FastAPI, Uvicorn, Python-dotenv,
-Python-multipart
+Python-multipart<br>
+**Skills & Techniques:** Data Analysis, Machine Learning, Deep Learning, Computer Vision, Data Visualization, Data
+Cleaning & Wrangling, Statistics, Time-Series Analysis, Web Scraping<br>
+**Soft Skills:** Problem Solving, Analytical Thinking, Teamwork, Communication, Time Management, Adaptability
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedSho3ib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
