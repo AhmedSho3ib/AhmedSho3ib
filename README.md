@@ -1,5 +1,5 @@
 # About Me:
-💡 Junior Data Scientist & ML Engineer, experienced in machine learning, deep learning, and building end-to-end data solutions with Python<br>🚀 Currently developing ML models, and AI applications using Scikit-learn, TensorFlow and modern data tools.<br>
+💡 Junior Data Scientist, experienced in machine learning, deep learning, and building end-to-end data solutions with Python<br>🚀 Currently developing ML models, and AI applications using Scikit-learn, TensorFlow and modern data tools.<br>
 
 
 ## 🌐 Socials:
