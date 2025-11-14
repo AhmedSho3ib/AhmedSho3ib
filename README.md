@@ -8,7 +8,7 @@
 # 💻 🔧 Technical Skills:
 **🧠 Languages:** Python, C++, Java, SQL<br>
 **🚀 Frameworks & Libraries:** Scikit-learn, TensorFlow, OpenCV, Streamlit, Plotly, NumPy, Pandas, Matplotlib,
-Seaborn, XGBoost, Imbalanced-learn<br>
+Seaborn<br>
 **🛠️ Tools & Environments:** Jupyter Notebook, VS Code, Git, GitHub, FastAPI, Uvicorn, Python-dotenv,
 Python-multipart<br>
 **🧬 Skills & Techniques:** Data Analysis, Machine Learning, Deep Learning, Computer Vision, Data Visualization, Data
