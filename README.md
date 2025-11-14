@@ -11,8 +11,8 @@
 Seaborn<br>
 **🛠️ Tools & Environments:** Jupyter Notebook, VS Code, Git, GitHub, FastAPI, Uvicorn, Python-dotenv,
 Python-multipart<br>
-**🧬 Skills & Techniques:** Data Analysis, Machine Learning, Deep Learning, Computer Vision, Data Visualization, Data
-Cleaning & Wrangling, Statistics, Time-Series Analysis, Web Scraping<br>
+**🧬 Skills & Techniques:** Data Analysis, Machine Learning, Deep Learning, Data Visualization, Data
+Cleaning & Wrangling, Time-Series Analysis, Web Scraping<br>
 **🤝 Soft Skills:** Problem Solving, Analytical Thinking, Teamwork, Communication, Time Management, Adaptability
 
 # 📊 GitHub Stats:
